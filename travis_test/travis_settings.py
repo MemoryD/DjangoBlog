@@ -166,9 +166,9 @@ LOGIN_URL = '/login/'
 TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 DATE_TIME_FORMAT = '%Y-%m-%d'
 
-SITE_NAME = '且听风吟'
-SITE_URL = 'http://www.lylinux.net'
-SITE_DESCRIPTION = '大巧无工,重剑无锋.'
+SITE_NAME = 'XINXIN & MEMORY'
+SITE_URL = 'http://memory.free.ngrok.cc'
+SITE_DESCRIPTION = '今天的肥宅快乐水也很好喝.'
 SITE_SEO_DESCRIPTION = '小站主要用来分享和记录学习经验,教程,记录个人生活的点滴以及一些随笔.欢迎大家访问小站'
 SITE_SEO_KEYWORDS = 'linux,apache,mysql,服务器,ubuntu,shell,web,csharp,.net,asp,mac,swift'
 ARTICLE_SUB_LENGTH = 300
